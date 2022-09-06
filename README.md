@@ -9,7 +9,7 @@ Catphan phantom contains several types of gauges - one of them (that is imaged o
 
 ![Alt text](localization_trap_all.png?raw=true "Figure 1 Catphan phantom - CBCT slice #67 (high resolution gauge marked by a red line trapezoid)")
 
-$MTF(f) = \frac{\pi\sqrt{2}}{2} \frac{M(f)}{M_0}$, $M(f) = \sqrt{SD_{gauge}^2-SD^2}$, $SD^2 = \frac{SD_{metal}^2+SD_{background}^2}{2}$
+$MTF(f) = \frac{\pi\sqrt{2}}{2} \frac{M(f)}{M_0}$, $M(f) = \sqrt{SD_{gauge}^2-SD^2}$, $SD^2 = \frac{SD_{metal}^2+SD_{background}^2}{2}$, $M_0 = \frac{|M_{metal}-M_{background}|}{2}$
 ```
 section
 ```
