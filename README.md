@@ -9,7 +9,9 @@ Catphan phantom contains several types of gauges - one of them (that is imaged o
 
 ![Alt text](localization_trap_all.png?raw=true "Figure 1 Catphan phantom - CBCT slice #67 (high resolution gauge marked by a red line trapezoid)")
 
-This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+$\sqrt{3x-1}+(1+x)^2$
+
+$MTF(f) = \frac{\pi\sqrt{2}}{2} \frac{M(f)}{M_0}$
 
 ```
 section
