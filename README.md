@@ -9,7 +9,7 @@ Catphan phantom contains several types of gauges - one of them (that is imaged o
 
 ![Alt text](localization_trap_all.png?raw=true "Figure 1 Catphan phantom - CBCT slice #67 (high resolution gauge marked by a red line trapezoid)")
 
-$`a^2+b^2=c^2`$
+This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
 
 ```
 section
