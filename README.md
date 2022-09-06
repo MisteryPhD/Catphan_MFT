@@ -7,4 +7,4 @@ The GOAL: is to compute MTF (Modulation Transfer Function) for the apparatus use
 
 Catphan phantom contains several types of gauges - one of them (that is imaged on 66, 67 and 68 CBCT slices) are High Resolution test gauges constructed from equidistantly separated metal plates forming several groups with different "spatial frequency" (67 slice is presented on the figure below - fig.1)
 
-![Alt text](localization_trap_all.png?raw=true "Title")
+![Alt text](localization_trap_all.png?raw=true "Figure 1 Catphan phantom - CBCT slice #67 (high resolution gauge marked by a red line trapezoid)")
