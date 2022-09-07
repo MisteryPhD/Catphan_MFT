@@ -50,3 +50,5 @@ be the “plates” points.
 Resulting MTF is given on the fig.6:
 
 ![Alt text](MTF_2.png?raw=true "Figure 6 MTF (along with the metal-to-water amount of points ratio in the gauge region)")
+
+Each gauge points were additionally split into two classes: with low and high values, and the ratio between these two sets was computed. It was assumed that each gauge region should contain nearly equal or comparable amounts of “plate” and “background” points in case if plates are separable for the specific gauge. The fig.6 contains the ratio between “plate” and “water” points for each gauge (for each spatial frequency) and It is evident that for large gauge where plates can be easily detected by eye – the ratio is near the [0.5-1], but for gauges where it is hard or impossible to detect a separate plate this ratio has a very high value. In the case of automotization this parameter could be used to identify if the plates are really separable for a specific gauge, and, for example, set all MTF values for “non-separable” gauges to zero or just assume the last separable gauge as a limit for resolution instead of using a trusted (10% or 20%) level on the MTF curve 
