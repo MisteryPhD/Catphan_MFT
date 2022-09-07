@@ -44,3 +44,5 @@ be the “plates” points.
 ![Alt text](ray_on_gauge.png?raw=true "Figure 3 Gauge localization: Ray hit the gauge")
 
 ![Alt text](ray_hits.png?raw=true "Figure 4 Ray hits: radius end AND the mean value")
+
+![Alt text](localization_trap.png?raw=true "Figure 5 Gauge localization: find the gauge pixels")
