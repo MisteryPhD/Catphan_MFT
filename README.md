@@ -32,3 +32,9 @@ Knowing the boundaries (two angles and two radiuses) for each gauge – it is ea
 image points (pixels) that lies inside these boundaries and so to identify the set of values for each 
 specific gauge (fig.5). Using these values, it is easy to compute its standard deviation or the mean value 
 that is used for MTF computing ( $SD_{gauge}$ ).
+
+To estimate the $M_{metal}$ and $SD_{metal}$ values (that is defined as Mean and Standard Deviation of the 
+pixels values at the largest plate) it is required to identify the set of image pixels that belong only to the 
+largest plate on the image – to do so, the set of pixels that have been found for the largest (#15) gauge is 
+split to two classes using a k-means clustering analysis, and points with the higher values is assumed to 
+be the “plates” points.
