@@ -16,3 +16,10 @@ $$SD^2 = \frac{SD_{metal}^2+SD_{background}^2}{2},    M_0 = \frac{|M_{metal}-M_{
 
 Where “SD” means the standard deviation, “M” means the mean value, “gauge” index means the rectangular region on the image that contains the gauge, “metal” index means the region on the image that contains only the metal (here the largest plate on the image is used), “background” index means the region on the image where are no gauge located (here the 20x20 pixels region in the center of the image is taken).  
 The spatial frequency for each gauge, “f”, is computed simply as the amount of plates in the gauge divided by its length (the length is the distance between the first and the last plate in the gauge).
+
+$$f = N_{plates}/L$$
+
+Assuming that amount of plates in each gauge is a known data the task is transforming into the “gauge 
+localization” task:
+
+$$N_{plates} = [5 5 5 5 5 5 5 5 5 5 4 4 4 3 2]$$ (in respect to the fig.1)
