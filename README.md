@@ -31,4 +31,4 @@ To localize each gauge region, it was decided to move a ray starting from the bo
 Knowing the boundaries (two angles and two radiuses) for each gauge – it is easy to identify the set of 
 image points (pixels) that lies inside these boundaries and so to identify the set of values for each 
 specific gauge (fig.5). Using these values, it is easy to compute its standard deviation or the mean value 
-that is used for MTF computing ($SD_{gauge}$).
+that is used for MTF computing ( $SD_{gauge}$ ).
