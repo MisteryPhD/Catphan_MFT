@@ -38,3 +38,7 @@ pixels values at the largest plate) it is required to identify the set of image 
 largest plate on the image – to do so, the set of pixels that have been found for the largest (#15) gauge is 
 split to two classes using a k-means clustering analysis, and points with the higher values is assumed to 
 be the “plates” points.
+
+![Alt text](ray_on_free_region.png?raw=true "Figure 2 Gauge localization: Ray out of the gauge")
+
+![Alt text](ray_on_gauge.png?raw=true "Figure 3 Gauge localization: Ray hit the gauge")
