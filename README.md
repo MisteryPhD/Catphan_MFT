@@ -22,6 +22,6 @@ $$f = N_{plates}/L$$
 Assuming that amount of plates in each gauge is a known data the task is transforming into the “gauge 
 localization” task:
 
-$$N_{plates}$$ = [5 5 5 5 5 5 5 5 5 5 4 4 4 3 2] (in respect to the fig.1)
+$N_{plates}$ = [5 5 5 5 5 5 5 5 5 5 4 4 4 3 2] (in respect to the fig.1)
 
 To simplify the coding a bit, let's assume a “polar rectangular” instead of straight rectangular regions for each gauge – “polar rectangular” is a circular section bounded by two angles and two radius values. In the given case each gauge has a small angular size so, this polar rectangular are very close to the straight rectangular (the figure bounded by two x-axis values and two y-axis values), so the using of the “Droege-Morin method” interpretation given above is reasonable. 
