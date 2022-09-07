@@ -42,3 +42,5 @@ be the “plates” points.
 ![Alt text](ray_on_free_region.png?raw=true "Figure 2 Gauge localization: Ray out of the gauge")
 
 ![Alt text](ray_on_gauge.png?raw=true "Figure 3 Gauge localization: Ray hit the gauge")
+
+![Alt text](ray_hits.png?raw=true "Figure 4 Ray hits: "radius end" AND the "mean value")
