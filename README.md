@@ -46,3 +46,7 @@ be the “plates” points.
 ![Alt text](ray_hits.png?raw=true "Figure 4 Ray hits: radius end AND the mean value")
 
 ![Alt text](localization_points.png?raw=true "Figure 5 Gauge localization: find the gauge pixels")
+
+Resulting MTF is given on the fig.6:
+
+![Alt text](MTF_2.png?raw=true "Figure 6 MTF (along with the metal-to-water amount of points ratio in the gauge region)")
